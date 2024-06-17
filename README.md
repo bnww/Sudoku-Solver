@@ -1,6 +1,6 @@
 # Sudoku solver
 
-
+A sodoku solver algorithm. The code is in `sudoku.ipynb` along with a description of the implementation. Sudokus of varying difficulties are stored in the `data` folder.
 
 I decided to design this algorithm as a constraint satisfaction problem, as this mirrors the way that humans think about sudokus, inputting values according to the constraints and then updating our knowledge of the problem to decide what square to look at changing next.
 
